@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Jagadeesh Blog.</h2>
+			<h2>Welcome To Jagadeesh Blog</h2>
 			<h3>Contact @ +91-7598877988</h3>
 		</div>	
 	</div>
